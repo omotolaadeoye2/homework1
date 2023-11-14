@@ -2,7 +2,7 @@
 Homework 1 for EcZachly Bootcamp3
 
 Question 1
-
+'''
 Create Table oadeoy2.actors 
 (
   actor varchar,
@@ -20,7 +20,7 @@ With
 format = "Parquet",
 patritioning = array ['current_year']
 )
-
+'''
 Question 2
 
 Insert into oadeoy2.actors
